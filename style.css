@@ -321,7 +321,7 @@ section h2{
 ================================= */
 
 .father-card::before {
-    background-image: url("images/agriculture.jpg");
+    background-image: url("agriculture.jpg");
 }
 
 
@@ -330,7 +330,7 @@ section h2{
 ================================= */
 
 .mother-card::before {
-    background-image: url("images/health.jpg");
+    background-image: url("health.jpg");
 }
 
 
@@ -339,7 +339,7 @@ section h2{
 ================================= */
 
 .sister-card::before {
-    background-image: url("images/family.jpg");
+    background-image: url("family.jpg");
 }
 
 
@@ -348,7 +348,7 @@ section h2{
 ================================= */
 
 .me-card::before {
-    background-image: url("images/hobbies.jpg");
+    background-image: url("hobbies.jpg");
 }
 
 

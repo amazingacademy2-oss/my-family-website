@@ -267,19 +267,19 @@ section h2{
 /* Family images */
 
 .father-card::before {
-    background-image: url("images/agriculture.jpg");
+    background-image: url("agriculture.jpg");
 }
 
 .mother-card::before {
-    background-image: url("images/health.jpg");
+    background-image: url("health.jpg");
 }
 
 .sister-card::before {
-    background-image: url("images/family.jpg");
+    background-image: url("family.jpg");
 }
 
 .me-card::before {
-    background-image: url("images/hobbies.jpg");
+    background-image: url("hobbies.jpg");
 }
 
 /* Card content */
